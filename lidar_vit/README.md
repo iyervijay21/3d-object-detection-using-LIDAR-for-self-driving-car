@@ -1,6 +1,6 @@
 # 3D LIDAR Vision Transformer for Obstacle Detection
 
-![LIDAR Point Cloud](https://placehold.co/600x300.png?text=LIDAR+Point+Cloud+Visualization)
+
 *A visualization of LIDAR point cloud data being processed by our Vision Transformer model*
 
 ## Project Overview
@@ -109,7 +109,7 @@ Training options:
 - `--weight_decay`: Weight decay for optimizer (default: 0.0001)
 - `--checkpoint_dir`: Directory to save model checkpoints (default: "checkpoints")
 
-![Training Progress](https://placehold.co/600x200.png?text=Training+Progress+Visualization)
+
 
 ### 3. Inference
 
@@ -219,7 +219,7 @@ Our model achieves the following performance on synthetic data:
 | Recall     | ~78%   |
 | Processing Time | ~500ms per 100K points (CPU) |
 
-![Performance Metrics](https://placehold.co/600x250.png?text=Performance+Metrics+Chart)
+
 
 ## Contributing
 
